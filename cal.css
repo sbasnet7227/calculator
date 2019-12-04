@@ -1,0 +1,62 @@
+.button {
+    background-color: #008CBA;
+    /*#4CAF50;*/ /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float:left;
+   
+}
+
+.button:hover {
+    background-color: #555555;
+   
+}
+.number{
+
+}
+.symbol{
+
+}
+
+.main {
+    width: 337px;
+    height: 380px;
+    background-color: #efecec;
+    position: absolute;
+    top:10%;
+    left: 20%;
+    /*transform: translateX(-50%)translateY(-50%);*/
+    
+    
+}
+.textview {
+    width: 305px;
+    margin: 10px;
+    font-size: 25px;
+    padding: 5px;
+    border:1px solid black;
+    background-color:antiquewhite;
+}
+ .textview:hover {
+        border: 1px solid #008CBA;
+ }
+/*#display {
+    border: 2px solid #008CBA;
+    width: 100%;
+    padding: 20px 20px;
+}
+
+.keyboard{
+    float:left;
+    width: 100%;
+
+}*/
+    
+    
